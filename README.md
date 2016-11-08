@@ -1,2 +1,2 @@
 # sea-battle
-Simple console sea battle game
+Simple console battleships game
